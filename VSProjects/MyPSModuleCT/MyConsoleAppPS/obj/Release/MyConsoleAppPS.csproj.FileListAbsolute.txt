@@ -1,0 +1,6 @@
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\bin\Release\MyConsoleAppPS.exe.config
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\bin\Release\MyConsoleAppPS.exe
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\bin\Release\MyConsoleAppPS.pdb
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\bin\Release\System.Management.Automation.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\obj\Release\MyConsoleAppPS.exe
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\obj\Release\MyConsoleAppPS.pdb

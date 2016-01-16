@@ -1,0 +1,66 @@
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\roslyn\csc.exe
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\roslyn\vbc.exe
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\roslyn\VBCSCompiler.exe
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\MyWebApp.dll.config
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\MyWebApp.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\MyWebApp.pdb
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensibility.DependencyCollector.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensibility.PerfCounterCollector.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Web.TelemetryChannel.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.PowerShell.Commands.Management.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\System.Management.Automation.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensibility.DependencyCollector.xml
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Web.TelemetryChannel.xml
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\obj\Debug\MyWebApp.csprojResolveAssemblyReference.cache
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\obj\Debug\MyWebApp.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyWebApp\obj\Debug\MyWebApp.pdb
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\roslyn\csc.exe
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\roslyn\vbc.exe
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\roslyn\VBCSCompiler.exe
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\MyWebApp.dll.config
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\MyWebApp.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\MyWebApp.pdb
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensibility.DependencyCollector.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensibility.PerfCounterCollector.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Web.TelemetryChannel.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensibility.DependencyCollector.xml
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.ApplicationInsights.Web.TelemetryChannel.xml
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\obj\Debug\MyWebApp.csprojResolveAssemblyReference.cache
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\obj\Debug\MyWebApp.dll
+C:\temp\VSProjects\MyPSModuleCT\MyWebApp\obj\Debug\MyWebApp.pdb

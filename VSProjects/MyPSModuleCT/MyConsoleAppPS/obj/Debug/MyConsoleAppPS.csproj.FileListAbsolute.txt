@@ -1,0 +1,17 @@
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\bin\Debug\MyConsoleAppPS.exe.config
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\bin\Debug\MyConsoleAppPS.exe
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\bin\Debug\MyConsoleAppPS.pdb
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\bin\Debug\System.Management.Automation.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\obj\Debug\MyConsoleAppPS.csprojResolveAssemblyReference.cache
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\obj\Debug\MyConsoleAppPS.exe
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\obj\Debug\MyConsoleAppPS.pdb
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\bin\Debug\MyPSBinaryModule.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyConsoleAppPS\bin\Debug\MyPSBinaryModule.pdb
+C:\temp\VSProjects\MyPSModuleCT\MyConsoleAppPS\bin\Debug\MyConsoleAppPS.exe.config
+C:\temp\VSProjects\MyPSModuleCT\MyConsoleAppPS\obj\Debug\MyConsoleAppPS.exe
+C:\temp\VSProjects\MyPSModuleCT\MyConsoleAppPS\obj\Debug\MyConsoleAppPS.pdb
+C:\temp\VSProjects\MyPSModuleCT\MyConsoleAppPS\bin\Debug\MyConsoleAppPS.exe
+C:\temp\VSProjects\MyPSModuleCT\MyConsoleAppPS\bin\Debug\MyConsoleAppPS.pdb
+C:\temp\VSProjects\MyPSModuleCT\MyConsoleAppPS\bin\Debug\MyPSBinaryModule.dll
+C:\temp\VSProjects\MyPSModuleCT\MyConsoleAppPS\bin\Debug\MyPSBinaryModule.pdb
+C:\temp\VSProjects\MyPSModuleCT\MyConsoleAppPS\obj\Debug\MyConsoleAppPS.csprojResolveAssemblyReference.cache

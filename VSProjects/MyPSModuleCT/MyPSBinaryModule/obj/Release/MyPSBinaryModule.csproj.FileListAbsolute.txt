@@ -1,0 +1,10 @@
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyPSBinaryModule\bin\Release\MyPSBinaryModule.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyPSBinaryModule\bin\Release\MyPSBinaryModule.pdb
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyPSBinaryModule\bin\Release\Microsoft.PowerShell.Commands.Management.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyPSBinaryModule\bin\Release\System.Management.Automation.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyPSBinaryModule\obj\Release\MyPSBinaryModule.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyPSBinaryModule\obj\Release\MyPSBinaryModule.pdb
+C:\temp\VSProjects\MyPSModuleCT\MyPSBinaryModule\bin\Release\MyPSBinaryModule.dll
+C:\temp\VSProjects\MyPSModuleCT\MyPSBinaryModule\bin\Release\MyPSBinaryModule.pdb
+C:\temp\VSProjects\MyPSModuleCT\MyPSBinaryModule\obj\Release\MyPSBinaryModule.dll
+C:\temp\VSProjects\MyPSModuleCT\MyPSBinaryModule\obj\Release\MyPSBinaryModule.pdb

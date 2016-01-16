@@ -1,0 +1,12 @@
+c:\Users\novenera\documents\visual studio 2015\Projects\MyModule\MyModule\bin\Debug\MyModule.dll
+c:\Users\novenera\documents\visual studio 2015\Projects\MyModule\MyModule\bin\Debug\MyModule.pdb
+c:\Users\novenera\documents\visual studio 2015\Projects\MyModule\MyModule\bin\Debug\System.Management.Automation.dll
+c:\Users\novenera\documents\visual studio 2015\Projects\MyModule\MyModule\obj\Debug\MyModule.csprojResolveAssemblyReference.cache
+c:\Users\novenera\documents\visual studio 2015\Projects\MyModule\MyModule\obj\Debug\MyModule.dll
+c:\Users\novenera\documents\visual studio 2015\Projects\MyModule\MyModule\obj\Debug\MyModule.pdb
+C:\Users\novenera\Documents\Visual Studio 2015\Projects\MyPSModuleCT\MyModule\bin\Debug\MyModule.dll
+C:\Users\novenera\Documents\Visual Studio 2015\Projects\MyPSModuleCT\MyModule\bin\Debug\MyModule.pdb
+C:\Users\novenera\Documents\Visual Studio 2015\Projects\MyPSModuleCT\MyModule\bin\Debug\System.Management.Automation.dll
+C:\Users\novenera\Documents\Visual Studio 2015\Projects\MyPSModuleCT\MyModule\obj\Debug\MyModule.csprojResolveAssemblyReference.cache
+C:\Users\novenera\Documents\Visual Studio 2015\Projects\MyPSModuleCT\MyModule\obj\Debug\MyModule.dll
+C:\Users\novenera\Documents\Visual Studio 2015\Projects\MyPSModuleCT\MyModule\obj\Debug\MyModule.pdb

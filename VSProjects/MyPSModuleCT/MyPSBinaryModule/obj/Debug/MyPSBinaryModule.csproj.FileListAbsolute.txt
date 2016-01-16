@@ -1,0 +1,11 @@
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyPSBinaryModule\bin\Debug\MyPSBinaryModule.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyPSBinaryModule\bin\Debug\MyPSBinaryModule.pdb
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyPSBinaryModule\bin\Debug\System.Management.Automation.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyPSBinaryModule\obj\Debug\MyPSBinaryModule.dll
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyPSBinaryModule\obj\Debug\MyPSBinaryModule.pdb
+c:\users\novenera\documents\visual studio 2015\Projects\MyPSModuleCT\MyPSBinaryModule\bin\Debug\Microsoft.PowerShell.Commands.Management.dll
+C:\temp\VSProjects\MyPSModuleCT\MyPSBinaryModule\bin\Debug\MyPSBinaryModule.dll
+C:\temp\VSProjects\MyPSModuleCT\MyPSBinaryModule\bin\Debug\MyPSBinaryModule.pdb
+C:\temp\VSProjects\MyPSModuleCT\MyPSBinaryModule\obj\Debug\MyPSBinaryModule.csprojResolveAssemblyReference.cache
+C:\temp\VSProjects\MyPSModuleCT\MyPSBinaryModule\obj\Debug\MyPSBinaryModule.dll
+C:\temp\VSProjects\MyPSModuleCT\MyPSBinaryModule\obj\Debug\MyPSBinaryModule.pdb

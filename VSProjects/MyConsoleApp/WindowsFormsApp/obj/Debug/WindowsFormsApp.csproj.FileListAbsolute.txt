@@ -1,0 +1,9 @@
+c:\temp\VSProjects\MyConsoleApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+c:\temp\VSProjects\MyConsoleApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+c:\temp\VSProjects\MyConsoleApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+c:\temp\VSProjects\MyConsoleApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojResolveAssemblyReference.cache
+c:\temp\VSProjects\MyConsoleApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+c:\temp\VSProjects\MyConsoleApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+c:\temp\VSProjects\MyConsoleApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+c:\temp\VSProjects\MyConsoleApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+c:\temp\VSProjects\MyConsoleApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
