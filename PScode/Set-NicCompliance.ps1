@@ -12,7 +12,7 @@ Function Get-NicDetails {
 
     Try {
 
-        $NICs=Get-WmiObject Win32_NetworkAdapterConfiguration -ComputerName $ComputerName |
+        $NICs=Get-WmiObject Win32_NetworkAdapterConfiguration -ComputerName $ComputerName -ErrorAction stop |
             where {$_.IPEnabled -eq "True" -and $_.DefaultIPGateway -ne $Null}
         
         Foreach ($NIC in $NICs) {
@@ -48,7 +48,7 @@ Function Get-NicDetails {
             
      }
      Catch {
-        Logging "Unable to connect to WMI $_" "Error"
+        Logging "Unable to connect to WMI: $($_.Exception.Message)" "ERROR"
      }       
 }
 
@@ -80,9 +80,4 @@ Function Get-ServerDetails {
 }
 
 $Global:Dnsservers=Get-ServerDetails
-if (Get-NicDetails) {
-    Write-host "True returned" 
-}
-Else {
-    write-host "false returned"
-}
+Get-NicDetails
